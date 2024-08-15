@@ -8,7 +8,6 @@ Welcome to the **Simon Says Game**! This is a web-based version of the classic m
 - [Setup](#setup)
 - [How to Play](#how-to-play)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Gameplay
 - The game starts when the player presses any key.
