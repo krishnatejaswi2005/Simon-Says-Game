@@ -38,7 +38,7 @@ Welcome to the **Simon Says Game**! This is a web-based version of the classic m
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/simon-says-game.git
+    git clone https://github.com/krishnatejaswi2005/simon-says-game.git
     ```
 
 2. Navigate to the project directory:
